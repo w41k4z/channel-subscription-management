@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8EyGRYhUji+aMihrjp03tG1TLvuh4nRsgTa6ZtJvfnY=",
+  "Source": "channel-subscription-management",
+  "BasePath": "_content/channel-subscription-management",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

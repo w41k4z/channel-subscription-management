@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\channel-subscription-management.props" />
+</Project>
